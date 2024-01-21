@@ -1,0 +1,44 @@
+body{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.header1{
+    font-size: 55px;
+    color: rgb(27, 114, 50);
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(76, 186, 223);
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 200px;
+}
+.header1:hover{
+    color:aqua;
+}
+.center1{
+    display: grid;
+    justify-content: center;
+}
+.b1{
+    background-color: lightcoral;
+    display:block;
+    height: 50px;
+    width: 450px;
+    font-size: 25px;
+    border-radius: 25px;
+    justify-content: center;
+    margin-left: -10px;
+    padding-bottom: 7px;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: lightblue;
+}
+a:visited{
+    color: blue;
+}
