@@ -1,7 +1,9 @@
 body{
-    background-image: url("mechlan.jpg");
+    /*background-image: url("mechlan.jpg");*/
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
+    /*background-color: #ffafbd + #ffc3a0;*/
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     height: 100%;
 }
 .header1{
@@ -41,4 +43,13 @@ a:hover{
 }
 a:visited{
     color: blue;
+}
+.th1{
+    color:aqua;
+}
+th, td{
+    padding:20px;
+    border: solid 2px black;
+    border-collapse: collapse;
+    font-size: 25px;
 }
