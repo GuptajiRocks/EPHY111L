@@ -35,8 +35,8 @@ body{
     margin-left: -10px;
     padding-bottom: 7px;
 }
-a:hover{
-    color: aqua;
+.b1:hover{
+    background-color: lightblue;
 }
 a:visited{
     color: blue;
