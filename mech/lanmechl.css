@@ -4,18 +4,22 @@ body{
     /*background-color: #ffafbd + #ffc3a0;*/
     background-size: cover;
     background-repeat: repeat;
-    height: 100%;
+    margin: auto;
+    background-position: center center;
+    background-attachment: fixed;
+
 }
 .header1{
     font-size: 55px;
-    color: black;
+    color:black;
     border-radius: 25px;
     display: flex;
     justify-content: center;
     background-color: rgb(76, 186, 223);
-    margin-left: 400px;
-    margin-right: 400px;
-    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 355px;
 }
 .header1:hover{
     color: green;
@@ -28,11 +32,12 @@ body{
     background-color: lightcoral;
     display:block;
     height: 50px;
-    width: 450px;
+    width: auto;
     font-size: 25px;
     border-radius: 25px;
     justify-content: center;
-    margin-left: -10px;
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom: 7px;
 }
 a:hover{
