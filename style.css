@@ -1,8 +1,8 @@
 body{
     background-image: url("bg.jpg");
-    
     background-repeat: no-repeat;
-    height: 100%;
+    margin: auto;
+    
 }
 .header1{
     font-size: 55px;
