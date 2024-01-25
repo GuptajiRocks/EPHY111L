@@ -33,11 +33,12 @@ body{
     background-color: lightcoral;
     display:block;
     height: 50px;
-    width: 450px;
+    width: auto;
     font-size: 25px;
     border-radius: 25px;
     justify-content: center;
-    margin-left: -10px;
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom: 7px;
 }
 a{
