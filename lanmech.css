@@ -19,6 +19,7 @@ body{
     margin-right: auto;
     margin-top: 50px;
     width: 355px;
+    text-align: center;
 }
 .header1:hover{
     color: green;
